@@ -1,0 +1,37 @@
+﻿body {
+
+   
+}
+
+#ReceiptDiv
+{
+    margin-top:75px;
+    border: 1px solid black;
+    text-align:center;
+    background-color:lightgoldenrodyellow;
+    width:200px;
+}
+
+#ReceiptDiv h3
+{
+    margin-top:0;
+    margin-bottom:0;
+}
+#ReceiptDiv h4
+{
+    margin-top:0;
+    
+}
+
+#labels
+{
+    margin-top:30px;
+    margin-bottom:30px;
+    border-top:1px dashed black;
+    border-bottom:1px dashed black;
+    text-align:left;
+}
+#labels span
+{
+    float:right;
+}
